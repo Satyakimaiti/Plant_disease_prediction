@@ -41,3 +41,5 @@ bash Copy Edit python -m venv venv source venv/bin/activate # On Windows: venv\S
 bash Copy Edit pip install -r requirements.txt Run the app:
 
 bash Copy Edit streamlit run app.py 
+
+Deployment_link - https://plantdiseaseprediction2025.streamlit.app/
